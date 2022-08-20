@@ -1,2 +1,8 @@
 #!/bin/bash
-echo "ALX School"
+
+echo "ALX"
+
+sleep 3
+
+echo "School is so cool!"
+
